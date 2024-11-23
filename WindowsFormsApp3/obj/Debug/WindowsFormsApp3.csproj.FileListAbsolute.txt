@@ -1,0 +1,15 @@
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\rvl224\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
